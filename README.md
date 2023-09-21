@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deepak Silaych</h1>
 <h3 align="center">A passionate developer from IIT Bombay</h3>
 
-- 🔭 I’m currently working on **ITC Certificate Portal**
+- 🔭 I’m currently working on [ITC Certificate Portal](https://github.com/ITC-WEB-TEAM-23-24/Certificate_Portal_23)
 
 - 🌱 I’m currently learning **React , TensorFlow**
 
-- 👯 I’m looking to collaborate on [Mumbai Flood Forecasting](https://github.com/ITC-WEB-TEAM-23-24/Certificate_Portal_23)
+- 👯 I’m looking to collaborate on **Mumbai Flood Forecasting**
 
 - 📫 How to reach me **deepaksilaych@gmail.com**
 
