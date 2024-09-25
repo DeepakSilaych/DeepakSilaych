@@ -5,7 +5,11 @@
 
 <h1>Hi 👋, I'm Deeppak Silaych</h1>
 
-<p>3rd-year BTech student at IIT Bombay with a strong interest in Web & Blockchain</p>
+<p>I'm Deepak Silaych, a passionate 3rd-year BTech student at IIT Bombay with a strong interest in web development, machine learning, and web3. I have experience interning as a web developer at HealthKa and as an SDE intern at DraftAI. Currently, I am leading the web team as the manager of the Institute Technical Council (ITC) at IIT Bombay after starting as a convener.
+
+I am driven by challenges and consistently participate in competitions and hackathons that push the boundaries of web development, machine learning, and blockchain technologies. I am particularly excited about the potential of blockchain and web3, which I’ve been actively learning and exploring recently.
+
+Let’s connect if you’re interested in web development, blockchain, or innovative tech!</p>
 
 <h2>🛠 Skills</h2>
 <p>
