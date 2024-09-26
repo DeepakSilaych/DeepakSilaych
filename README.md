@@ -3,7 +3,7 @@
 <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=DeepakSilaych&count_private=true&theme=radical" />
 </a>
 
-<h1>Hi 👋, I'm Deeppak Silaych</h1>
+<h1>Hi 👋, I'm Deepak Silaych</h1>
 
 <p>I'm Deepak Silaych, a passionate 3rd-year BTech student at IIT Bombay with a strong interest in web development, machine learning, and web3. I have experience interning as a web developer at HealthKa and as an SDE intern at DraftAI. Currently, I am leading the web team as the manager of the Institute Technical Council (ITC) at IIT Bombay after starting as a convener.
 
