@@ -175,9 +175,6 @@ Let’s connect if you’re interested in web development, blockchain, or innova
 
 </p>
 
-<a href="https://github.com/DeepakSilaych" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=DeepakSilaych&layout=compact&langs_count=8&bg_color=ffffff#gh-light-mode-only" />
-</a>
 
 <h2>📪 Contact me</h2>
 <p>
