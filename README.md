@@ -2,6 +2,9 @@
 A self-taught developer from India who loves to work with Typescript and Python. Learning Go and Rust
 ###
 
+<hr
+
+
 <br clear="both">
 
 <div align="left">
