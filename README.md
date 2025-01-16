@@ -1,9 +1,10 @@
 ### Hello! I'm Deepak Silaych
+
 A self-taught developer from India who loves to work with Typescript and Python. Learning Go and Rust
+
 ###
 
-<hr
-
+<hr>
 
 <br clear="both">
 
@@ -12,11 +13,7 @@ A self-taught developer from India who loves to work with Typescript and Python.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepaksilaych&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
-
-
-<br clear="both">
-
-![Snake animation](https://raw.githubusercontent.com/deepaksilaych/deepaksilaych/output/snake.svg)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ###
